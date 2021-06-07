@@ -1,7 +1,24 @@
 # POO-Unidad-2-Actividad-2
 ## Actividad 4: Herramienta para envío de correos masivos UPV
 
-<img src="https://static1-es.millenium.gg/articles/7/34/02/7/@/157894-pokemon-legends-arceus-amp_main_media_schema-1.jpg" width="50%">
+<img src="https://static1-es.millenium.gg/articles/7/34/02/7/@/157894-pokemon-legends-arceus-amp_main_media_schema-1.jpg" width="100%">
+
+### Integrantes del Equipo
+ Matricula  Nombre
+ 
+ *1930476	  TOVAR ALVARADO ARAEL
+ 
+ *1930227	  ANDRADE MARTINEZ EYMI LIZETH
+ 
+ *1930082	  MAR RANGEL JOSE CARLOS 
+ 
+ *1930163	  VANOYE RODRIGUEZ FRANCISCO URIEL
+ 
+ *1930484	  MARTINEZ DORANTES ORLANDO SAMUEL
+ 
+ *1930468	  GARCIA RIVERA KAREN LIZETH
+ 
+ *1930033	  REYES PUGA CARLOS ALEJANDRO
 
 ### Objetivo de la Práctica
 
