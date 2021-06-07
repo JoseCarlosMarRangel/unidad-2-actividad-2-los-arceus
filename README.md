@@ -1,6 +1,8 @@
 # POO-Unidad-2-Actividad-2
 ## Actividad 4: Herramienta para envío de correos masivos UPV
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.millenium.gg%2Fnoticias%2F34027.html&psig=AOvVaw19FijFGgJIoVgxzkQ96uqv&ust=1623181287854000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKihpqCphvECFQAAAAAdAAAAABAD" alt="arceus"/>
+
 ### Objetivo de la Práctica
 
 El alumno deberá demostrar solura en los siguientes temas de la Programación Orientada a Objetos.
